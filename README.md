@@ -3,7 +3,7 @@
 ### A classical Computer Vision pipeline for affordable road monitoring
 
 > Built as part of the BYOP submission for the Computer Vision course
-> VIT Bhopal | B.Tech CSE | 2025–26
+> VIT Bhopal | B.Tech CSE(AIML) | 2025–26
 
 ---
 
@@ -202,8 +202,8 @@ Each module also includes a `compare_parameters()` function that benchmarks alte
 
 | | |
 |---|---|
-| **Name** | [Your Name] |
-| **Roll No** | [Your Roll No] |
-| **Program** | B.Tech CSE, VIT Bhopal |
+| **Name** | Gaurav Sharma |
+| **Roll No** | 23BAI10554 |
+| **Program** | B.Tech CSE(AIML), VIT Bhopal |
 | **Course** | Computer Vision (BYOP Project) |
 | **Academic Year** | 2025–26 |
