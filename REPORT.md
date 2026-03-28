@@ -4,12 +4,12 @@
 
 | Field | Details |
 |-------|---------|
-| Student Name | [Your Name] |
-| Roll Number | [Your Roll No] |
-| Course | Computer Vision (CSE3005/CSE3006) |
+| Student Name | Gaurav Sharma |
+| Roll Number | 23BAI10554 |
+| Course | Computer Vision (CSE3010) |
 | Institution | VIT Bhopal University |
 | Submission Date | March 2026 |
-| GitHub | [Repository URL] |
+| GitHub | https://github.com/luvgaurav19/road-scene-analysis.git |
 
 ---
 
