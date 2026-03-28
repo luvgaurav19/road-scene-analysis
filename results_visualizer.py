@@ -77,7 +77,7 @@ def create_composite_image() -> None:
     plt.tight_layout(rect=[0, 0, 1, 0.96])
 
     save_path = OUTPUT_DIR / "FULL_PIPELINE_RESULTS.png"
-    fig.savefig(str(save_path), dpi=120, bbox_inches="tight", facecolor="white")
+    fig.savefig(str(save_path), dpi=80, bbox_inches="tight", facecolor="white")
     print(f"[OK] Composite image saved -> {save_path}")
     plt.close(fig)
 
